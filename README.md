@@ -52,7 +52,4 @@ This study investigates how protective behaviours changed over time during the C
 ---
 
 ## Report
-The complete project report, including the Overleaf source files, is provided as an **Overleaf ZIP** in this repository.
-
-## Report
-Fin    al Report.pdf
+The complete project report, including the Overleaf source files, is provided as an **Overleaf ZIP: Understanding_Drivers_of_Protective_Behaviour_-_B** in this repository.
