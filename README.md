@@ -48,8 +48,3 @@ This study investigates how protective behaviours changed over time during the C
 ● BSTS generally achieved lower forecasting errors than SARIMAX across the four behavioural outcomes.
 
 ● Combining machine learning with time-series modelling provides a comprehensive framework for understanding behavioural responses during infectious disease outbreaks.
-
----
-
-## Report
-The complete project report, including the Overleaf source files, is provided as an **Overleaf ZIP: Understanding_Drivers_of_Protective_Behaviour_-_B** in this repository.
